@@ -10,7 +10,7 @@ To explore and expose foundational structures across reality using logic-based, 
 
 ### Projects
 
-* **DripKit** — This is a passion project. It is a Low-tech, modular, field-deployable water harvesting systems for areas without access to clean water sources. See PDF for more info. Website and kits available soon. 
+* **DripKit** — This is a passion project. It is an open-source, low-tech, modular, field-deployable water harvesting systems for survival in areas without access to clean water sources. See PDF for more info. Website and kits available soon. 
 * **Temporal Compression Model (TCM)** — A scalar-field solution that reconciles time treatment in quantum mechanics and general relativity  
 * **Drift Cosmology** — A model of emotional and perceptual drift as field curvature
 * **BoriSight** — A layered emotional visual analysis framework based on microexpression curvature and visual signal weight
